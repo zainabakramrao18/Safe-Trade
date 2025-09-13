@@ -5,8 +5,8 @@ import time
 
 # ==== SETUP ====
 exchange = ccxt.binance({
-    'apiKey': 'dzD92Pmgj3LVTbbD586oceRYJpdvzG34g52FvDoA0I9T4qQXmkrjtrL1TTEIMpMk',
-    'secret': '5Mc1MduCbYr7JTyzE2hoaOh5a5oHgzfyj5CUEf3QbLdxOVULUBaUnfWNAhTIBsRB',
+    'apiKey': 'your api key',
+    'secret': 'your secret key',
     'enableRateLimit': True
 })
 
